@@ -1,0 +1,15 @@
+C:\Users\mfock\OneDrive\Desktop\Devcodecamp\C#Intro\Robot Vs Dinosaur Project\Robot Vs Dinosaur Project\obj\Debug\net7.0\Robot Vs Dinosaur Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mfock\OneDrive\Desktop\Devcodecamp\C#Intro\Robot Vs Dinosaur Project\Robot Vs Dinosaur Project\obj\Debug\net7.0\Robot Vs Dinosaur Project.AssemblyInfoInputs.cache
+C:\Users\mfock\OneDrive\Desktop\Devcodecamp\C#Intro\Robot Vs Dinosaur Project\Robot Vs Dinosaur Project\obj\Debug\net7.0\Robot Vs Dinosaur Project.AssemblyInfo.cs
+C:\Users\mfock\OneDrive\Desktop\Devcodecamp\C#Intro\Robot Vs Dinosaur Project\Robot Vs Dinosaur Project\obj\Debug\net7.0\Robot Vs Dinosaur Project.csproj.CoreCompileInputs.cache
+C:\Users\mfock\OneDrive\Desktop\Devcodecamp\C#Intro\Robot Vs Dinosaur Project\Robot Vs Dinosaur Project\bin\Debug\net7.0\Robot Vs Dinosaur Project.exe
+C:\Users\mfock\OneDrive\Desktop\Devcodecamp\C#Intro\Robot Vs Dinosaur Project\Robot Vs Dinosaur Project\bin\Debug\net7.0\Robot Vs Dinosaur Project.deps.json
+C:\Users\mfock\OneDrive\Desktop\Devcodecamp\C#Intro\Robot Vs Dinosaur Project\Robot Vs Dinosaur Project\bin\Debug\net7.0\Robot Vs Dinosaur Project.runtimeconfig.json
+C:\Users\mfock\OneDrive\Desktop\Devcodecamp\C#Intro\Robot Vs Dinosaur Project\Robot Vs Dinosaur Project\bin\Debug\net7.0\Robot Vs Dinosaur Project.dll
+C:\Users\mfock\OneDrive\Desktop\Devcodecamp\C#Intro\Robot Vs Dinosaur Project\Robot Vs Dinosaur Project\bin\Debug\net7.0\Robot Vs Dinosaur Project.pdb
+C:\Users\mfock\OneDrive\Desktop\Devcodecamp\C#Intro\Robot Vs Dinosaur Project\Robot Vs Dinosaur Project\obj\Debug\net7.0\Robot Vs Dinosaur Project.dll
+C:\Users\mfock\OneDrive\Desktop\Devcodecamp\C#Intro\Robot Vs Dinosaur Project\Robot Vs Dinosaur Project\obj\Debug\net7.0\refint\Robot Vs Dinosaur Project.dll
+C:\Users\mfock\OneDrive\Desktop\Devcodecamp\C#Intro\Robot Vs Dinosaur Project\Robot Vs Dinosaur Project\obj\Debug\net7.0\Robot Vs Dinosaur Project.pdb
+C:\Users\mfock\OneDrive\Desktop\Devcodecamp\C#Intro\Robot Vs Dinosaur Project\Robot Vs Dinosaur Project\obj\Debug\net7.0\Robot Vs Dinosaur Project.genruntimeconfig.cache
+C:\Users\mfock\OneDrive\Desktop\Devcodecamp\C#Intro\Robot Vs Dinosaur Project\Robot Vs Dinosaur Project\obj\Debug\net7.0\ref\Robot Vs Dinosaur Project.dll
+C:\Users\mfock\OneDrive\Desktop\Devcodecamp\C#Intro\Robot Vs Dinosaur Project\Robot Vs Dinosaur Project\obj\Debug\net7.0\Robot Vs Dinosaur Project.sourcelink.json

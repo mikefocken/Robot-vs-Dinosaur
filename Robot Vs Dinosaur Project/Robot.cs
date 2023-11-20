@@ -11,23 +11,25 @@ namespace Robot_Vs_Dinosaur_Project
         //Member variables (HAS A)
         public string name;
         public int health;
-        public int attackPower;
+        public Weapon weapon;
 
         //Constructor
         public Robot(string name)
         {
             this.name = name;
             this.health= 100;
-            this.attackPower =  10;
+            weapon= new Weapon("Saber");
             
 
 
         }
 
         //Member methods (CAN DOs)
-        public int Robot attacks Dinosaur({ Dionosaur,health})
+        public void Attack(Dinosaur dino)
         {
-            dinosaur.health -=1-;
+          dino.health = dino.health- weapon.attackPower;
+           Console.WriteLine($"{name} attacks {dino.name} for {weapon.attackPower}\n{dino.name}'s health is now {dino.health}");
+
         }
 
 

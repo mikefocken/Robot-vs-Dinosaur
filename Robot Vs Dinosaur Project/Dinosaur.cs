@@ -22,6 +22,14 @@ namespace Robot_Vs_Dinosaur_Project
 
         }
         //Member methods (CAN DOs)
-       
+
+        public void Attack(Robot robot)
+        {
+            robot.health = robot.health-attackPower;
+            Console.WriteLine($"{name} attacks {robot.name} for {attackPower}\n{robot.name}'s health is now {robot.health}");
+        }
+
+
+
     }
 }

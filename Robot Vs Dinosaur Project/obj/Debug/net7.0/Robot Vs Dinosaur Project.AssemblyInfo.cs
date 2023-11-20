@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Robot Vs Dinosaur Project")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+792eaf070efe74d019ea8477ff172878bab84b09")]
 [assembly: System.Reflection.AssemblyProductAttribute("Robot Vs Dinosaur Project")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Robot Vs Dinosaur Project")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

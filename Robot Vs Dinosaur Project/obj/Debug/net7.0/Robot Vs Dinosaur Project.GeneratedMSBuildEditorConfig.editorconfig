@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Robot_Vs_Dinosaur_Project
-build_property.ProjectDir = C:\Users\mfock\OneDrive\Desktop\Devcodecamp\C#Intro\Robot vs Dinosaur Project\Robot Vs Dinosaur Project\Robot Vs Dinosaur Project\
+build_property.ProjectDir = C:\Users\mfock\OneDrive\Desktop\Devcodecamp\C#Intro\Robot Vs Dinosaur Project\Robot Vs Dinosaur Project\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

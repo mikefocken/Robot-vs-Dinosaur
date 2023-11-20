@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mfock\\OneDrive\\Desktop\\Devcodecamp\\C#Intro\\Robot vs Dinosaur Project\\Robot Vs Dinosaur Project\\Robot Vs Dinosaur Project\\Robot Vs Dinosaur Project.csproj": {}
+    "C:\\Users\\mfock\\OneDrive\\Desktop\\Devcodecamp\\C#Intro\\Robot Vs Dinosaur Project\\Robot Vs Dinosaur Project\\Robot Vs Dinosaur Project.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mfock\\OneDrive\\Desktop\\Devcodecamp\\C#Intro\\Robot vs Dinosaur Project\\Robot Vs Dinosaur Project\\Robot Vs Dinosaur Project\\Robot Vs Dinosaur Project.csproj": {
+    "C:\\Users\\mfock\\OneDrive\\Desktop\\Devcodecamp\\C#Intro\\Robot Vs Dinosaur Project\\Robot Vs Dinosaur Project\\Robot Vs Dinosaur Project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mfock\\OneDrive\\Desktop\\Devcodecamp\\C#Intro\\Robot vs Dinosaur Project\\Robot Vs Dinosaur Project\\Robot Vs Dinosaur Project\\Robot Vs Dinosaur Project.csproj",
+        "projectUniqueName": "C:\\Users\\mfock\\OneDrive\\Desktop\\Devcodecamp\\C#Intro\\Robot Vs Dinosaur Project\\Robot Vs Dinosaur Project\\Robot Vs Dinosaur Project.csproj",
         "projectName": "Robot Vs Dinosaur Project",
-        "projectPath": "C:\\Users\\mfock\\OneDrive\\Desktop\\Devcodecamp\\C#Intro\\Robot vs Dinosaur Project\\Robot Vs Dinosaur Project\\Robot Vs Dinosaur Project\\Robot Vs Dinosaur Project.csproj",
+        "projectPath": "C:\\Users\\mfock\\OneDrive\\Desktop\\Devcodecamp\\C#Intro\\Robot Vs Dinosaur Project\\Robot Vs Dinosaur Project\\Robot Vs Dinosaur Project.csproj",
         "packagesPath": "C:\\Users\\mfock\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mfock\\OneDrive\\Desktop\\Devcodecamp\\C#Intro\\Robot vs Dinosaur Project\\Robot Vs Dinosaur Project\\Robot Vs Dinosaur Project\\obj\\",
+        "outputPath": "C:\\Users\\mfock\\OneDrive\\Desktop\\Devcodecamp\\C#Intro\\Robot Vs Dinosaur Project\\Robot Vs Dinosaur Project\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mfock\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

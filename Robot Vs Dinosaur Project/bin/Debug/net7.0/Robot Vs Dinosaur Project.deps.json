@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Robot Vs Dinosaur Project/1.0.0": {
+        "runtime": {
+          "Robot Vs Dinosaur Project.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Robot Vs Dinosaur Project/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
